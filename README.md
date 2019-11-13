@@ -2,6 +2,7 @@ Nginx、PHP环境部署(Windows)
 ===
 
 ## 目录结构
+```
 ├─nginx1.12
 │  ├─conf
 │  ├─contrib
@@ -35,6 +36,7 @@ Nginx、PHP环境部署(Windows)
 └─xxfpm-master
     ├─bin
     └─src
+```
 
 ## 注意：以下文件有 需要手动修改的路径位置
 
