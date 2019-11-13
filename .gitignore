@@ -1,2 +1,2 @@
-**/*.log
-temp/fastcgi_temp/*
+**/logs/*.log
+**/temp/fastcgi_temp/*
